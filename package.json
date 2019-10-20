@@ -1,0 +1,22 @@
+{
+  "name": "car_mocha_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williwilliw/car_mocha_practice.git"
+  },
+  "author": "William Upritchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williwilliw/car_mocha_practice/issues"
+  },
+  "homepage": "https://github.com/williwilliw/car_mocha_practice#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
